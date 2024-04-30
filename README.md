@@ -16,20 +16,20 @@ This course is aimed at mid-level software engineers looking to enhance their pr
 
 ## Course Structure
 
-1. **Week 1-4: Advanced JavaScript Fundamentals**
+1. **Week 1-4: Advanced TypeScript Fundamentals**
 
    - Topics covered: ES6 features, asynchronous programming, functional programming, etc.
    - Example project: Building a task management application using JavaScript promises.
 
-2. **Week 5-8: Mastering Next.js Framework**
+2. **Week 5-8: Mastering Mongoose with TypeScript in Next.js Framework**
 
-   - Topics covered: Server-side rendering, API routes, data fetching, routing, etc.
-   - Example project: Developing a blog platform with Next.js and Tailwind CSS.
+   - Delve deep into Mongoose, a robust MongoDB object modeling tool, seamlessly integrated with TypeScript in the Next.js environment.
+   - Example project: Constructing a scalable e-commerce platform using Mongoose schemas and TypeScript interfaces for data modeling and validation.
 
-3. **Week 9-12: Fullstack Development with Next.js**
+3. **Week 9-12: Fullstack Development with PostgreSQL, Prisma, and Next.js**
 
-   - Topics covered: Integrating databases, authentication, state management, etc.
-   - Example project: Creating a real-time chat application using Next.js, MongoDB, and Socket.IO.
+- Explore the power of PostgreSQL database management system combined with Prisma ORM for efficient data access and manipulation in your Next.js applications.
+- Example project: Building a dynamic social media platform with user authentication, data relationships, and real-time updates using PostgreSQL, Prisma, and Next.js.
 
 4. **Week 13-16: Advanced Topics and Specializations**
 
